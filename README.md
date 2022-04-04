@@ -6,3 +6,5 @@ Project on Numbertypes
 
 
 [![CI](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/main.yml/badge.svg)](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/main.yml)
+
+[![Build-Linux](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/Build.yml/badge.svg)](https://github.com/SreeLikitha/M1_C_Project/actions/workflows/Build.yml)
